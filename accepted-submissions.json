@@ -3,10 +3,10 @@
   {
    "lastAccept": 1505270052, 
    "pos": 1, 
-   "score": 1000, 
+   "score": 974, 
    "taskStats": {
     "test-01": {
-     "points": 500, 
+     "points": 474, 
      "time": 1505269986
     }, 
     "test-02": {
@@ -15,6 +15,18 @@
     }
    }, 
    "team": "Smoke Test"
+  }, 
+  {
+   "lastAccept": 1505270402, 
+   "pos": 2, 
+   "score": 474, 
+   "taskStats": {
+    "test-01": {
+     "points": 474, 
+     "time": 1505270402
+    }
+   }, 
+   "team": "ELT"
   }
  ], 
  "tasks": [
