@@ -1,0 +1,19 @@
+{
+ "standings": [
+  {
+   "lastAccept": 1505269986, 
+   "pos": 1, 
+   "score": 500, 
+   "taskStats": {
+    "test-01": {
+     "points": 500, 
+     "time": 1505269986
+    }
+   }, 
+   "team": "Smoke Test"
+  }
+ ], 
+ "tasks": [
+  "test-01"
+ ]
+}
